@@ -1,12 +1,12 @@
 public class Main {
     public static void main(String[] args) {
         Driver driver1 = new Driver("Gennady Crocodile", "DL00001");
-        Driver driver2 = new Driver("Peter Parker", "DL00002");
+        Driver driver2 = new Driver("Batman", "DL00002");
         Driver driver3 = new Driver("Molniya Maksimkin", "DL00003");
 
-        Car myCar = new Car("Toyota", 2018, 4, "Gasoline");
-        Motorcycle myBike = new Motorcycle("Honda", 2020, false);
-        Truck myTruck = new Truck("Kamaz", 2023, 15.5, 3);
+        Car myCar = new Car("Krutaya Machina", 2018, 4, "Gas");
+        Motorcycle myBike = new Motorcycle("100% Harley-Davidson", 2020, false);
+        Truck myTruck = new Truck("KAMAZ", 2023, 15.5, 3);
         ElectricCar myEV = new ElectricCar("Tesla", 2024, 2, 69.0);
 
         myCar.setDriver(driver1);

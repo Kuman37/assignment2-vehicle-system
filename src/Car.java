@@ -10,11 +10,11 @@ public class Car extends Vehicle {
 
     @Override
     public void startEngine() {
-        System.out.println("Car has started");
+        System.out.println("Bibika goes crazy");
     }
 
     @Override
     public void stopEngine() {
-        System.out.println("Car has stopped");
+        System.out.println("Bibika sleep");
     }
 }

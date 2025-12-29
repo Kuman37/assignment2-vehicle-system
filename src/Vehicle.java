@@ -24,7 +24,7 @@ public abstract class Vehicle {
             driver.displayDriverInfo();
         }
         else {
-            System.out.println("Driver is null");
+            System.out.println("No Driver? ;c");
         }
     }
 }

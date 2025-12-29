@@ -8,11 +8,11 @@ public class ElectricCar extends Car{
 
     @Override
     public void startEngine() {
-        System.out.println("Starting Engine Silently. (Battery " + batteryCapacity + "kWh)");
+        System.out.println("Elektro on. (Battery " + batteryCapacity + "kWh)");
     }
 
     @Override
     public void stopEngine() {
-        System.out.println("Stopping Engine Silently.");
+        System.out.println("Elektro off.");
     }
 }
