@@ -38,7 +38,11 @@ java Main
 
 ## **D. Screenshots**
 ![alt text](https://github.com/Kuman37/assignment2-vehicle-system/blob/master/docs/screenshots/output.png)
+
+### bonus:
 ![alt text](https://github.com/Kuman37/assignment2-vehicle-system/blob/master/docs/screenshots/uml-diagram.png)
+![alt text](https://github.com/Kuman37/assignment2-vehicle-system/blob/master/docs/screenshots/bonus.png)
+
 
 
 
