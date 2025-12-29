@@ -38,6 +38,8 @@ java Main
 
 ## **D. Screenshots**
 ![alt text](https://github.com/Kuman37/assignment2-vehicle-system/blob/master/docs/screenshots/output.png)
+![alt text](https://github.com/Kuman37/assignment2-vehicle-system/blob/master/docs/screenshots/uml-diagram.png)
+
 
 
 ## **E. Reflection**
